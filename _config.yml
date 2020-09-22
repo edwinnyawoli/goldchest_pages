@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Create and Preview Invoices
     description                           : Easily create invoices by providing weight and price and let the app calculate the rest.
-    fontawesome_icon_name                 : pencil
+    fontawesome_icon_name                 : plus
 
   - title                                 : Share Invoices as PDFs
     description                           : Share created invoices with your clients through WhatsApp, email or any other means they prefer.
